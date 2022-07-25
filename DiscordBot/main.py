@@ -103,4 +103,4 @@ Qualquer duvida com bot está aqui:
 intents = discord.Intents.default()
 intents.members = True
 client = MyClient(intents=intents)
-client.run('OTEwMjM2MTM3NjMxNjc0NDc5.GNudk9.0x3YFlFkR_BCk3fY4wNTNQi-J8pdbl1vtWkW3U')
+client.run('---you tokens goes here---')
